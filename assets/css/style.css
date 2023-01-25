@@ -1,0 +1,155 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+} */
+
+.bar{
+    width: 220px;
+    height: 25px;
+     margin-left: 60px;
+     background-color:#4CA6A0 ;
+     margin-bottom: 40px;
+     padding-bottom: 20px;
+     align-items: center;
+     margin-top: 10px;
+}
+
+.verx{
+    display: flex;
+    background-color: aliceblue;
+    height: 55px;
+     
+}
+
+.verx .menu{
+   margin-left: 650px;
+   margin-bottom: 40px;
+   font-size: larger;
+   
+     
+}
+
+.verx .menu a{
+    text-decoration: none;
+    font-size: large;
+    color: #000101;
+    display: inline-block;
+       
+}
+
+.bar h1{
+    color: aliceblue;
+    margin-top: 2px;
+}
+
+.about{
+    display: flex;
+
+    
+    block-size: 0;
+    
+    background-color: azure;
+    width: 950px;
+    margin-top: 40px;
+    margin-left: 120px;  
+    height: 850px;
+    display: inline-block;
+    
+       
+    
+}
+
+.about h1{
+    margin-left: 30px;
+    margin-bottom: 100px;
+    display: block;
+    margin-bottom: 30px ;
+    color: #4CA6A0;
+    margin-top: 40px;
+    
+    
+}
+
+.about .baner{
+    width: 100px;
+    height: 200px;
+    
+    margin-top: 20px;
+    margin-left: 30px;
+    
+    
+    
+}
+
+.baner{
+    display: flex;
+    float: left;
+    
+    
+display: block;
+    
+}
+
+.words{
+    color: black;
+    margin-left: 320px;
+    margin-top: -5px;
+    width: 600px;
+    height: 200px;
+    
+}
+
+.words h1{
+    color:#777777
+}
+
+.words p{
+    color:#777777
+}
+
+.img{
+    margin-left: 50px;
+}
+
+.menu ul li{
+    list-style: none;
+    color: #777777;
+}
+
+.words strong{
+    margin-left: 120px;
+    margin-bottom: 10px;
+}
+
+.about{
+    background-color: ;
+}
+
+.Connect h1{
+    color: #4CA6A0;
+margin-right: 20px;
+}
+
+.Connect{
+    background-color: aliceblue;
+    height: 150px;
+    width: 270px;
+    margin-left: 1130px;
+    margin-bottom: -190px;
+   
+}
+
+.backstyle .about hr{
+    margin-bottom: 30px;
+}
+
+\
+
+
+
+
+
+
+
